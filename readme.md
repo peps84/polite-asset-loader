@@ -18,5 +18,5 @@ When passed an id, class or any CSS selector this script will add all instances 
  ```
 #### Polite loads the third image tag that is a direct child of body:
 ```sh
- pal.log('body > img:nth-child(3)');
+ pal.load('body > img:nth-child(3)');
  ```

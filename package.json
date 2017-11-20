@@ -1,6 +1,6 @@
 {
   "name": "polite-asset-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A method to polite load heavy weight assets",
   "main": "index.js",
   "scripts": {
