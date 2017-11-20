@@ -1,11 +1,24 @@
 {
   "name": "polite-asset-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A method to polite load heavy weight assets",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sampepper@gmail.com",
-  "license": "ISC"
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peps84/polite-asset-loader.git"
+  },
+  "keywords": [
+    "polite",
+    "asset",
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/peps84/polite-asset-loader/issues"
+  },
+  "homepage": "https://github.com/peps84/polite-asset-loader#readme"
 }
